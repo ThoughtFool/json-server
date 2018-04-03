@@ -1,0 +1,151 @@
+{
+    "data": [
+        {
+            "skill":{
+                "Housekeeping":{
+                    "bedding":{
+                        "makeNewBed":{
+                            "process":[
+                                "remove all sheets from beds and room",                                
+                                "place all old sheets into cart's soiled linen basket",
+                                "select sheet sets that match the size and dimensions of the bed",
+                                "place new fitted sheet onto mattress",
+                                "place new flat sheet on top of fitted sheet",
+                                "fold head of flat sheet down 12 inches towards foot of bed",
+                                "tuck in the remaining 3 sides of flat sheet under mattress",
+                                "place new pillow cases on all pillows",
+                                "position 2 pillows, side by side at the head of bed",
+                                "if more than two pillows are on bed, then place extras in closet dust bag",
+                                "place new comforter on top of bed, covering evenly",
+                                "place new comforter pillow cases onto decorative pillows",
+                                "place decorative pillows at the head of bed, on top of comforter"
+                            ],
+                            "webLinks":{
+                                "videoTutorial": "https://www.youtube.com/watch?v=AZHOyfx3mU8",
+                                "diagram": "http://www.dreams.co.uk/sleep-matters-club/wp-content/uploads/2015/10/How-to-Make-Hospital-Corners-Diagram.jpg"
+                            },
+                            "referenceManual":[
+                                "page 4",
+                                "page 47",
+                                "page 215-232",
+                                "index iii"
+                            ]
+                        },
+                        "remakeBed":{
+                            "process":{},
+                            "webLinks":{
+                                "videoTutorial":"",
+                                "diagram":""
+                            },
+                            "referenceManual":[]
+                        },
+                        "turnDownService":{
+                            "process": {},
+                            "webLinks":{
+                                "videoTutorial":"",
+                                "diagram":""
+                            },
+                            "referenceManual":[]
+                        }
+                    },
+                    "linens":{
+                        "clean":{},
+                        "soiled":{}
+                    },
+                    "bath":{
+                        "shower":{
+                            "process": {},
+                            "webLinks":{
+                                "videoTutorial":"",
+                                "diagram":""
+                            },
+                            "referenceManual":[]
+                        },
+                        "bathTub":{
+                            "process": {},
+                            "webLinks":{
+                                "videoTutorial":"",
+                                "diagram":""
+                            },
+                            "referenceManual":[]
+                        },
+                        "sink":{
+                            "process": {},
+                            "webLinks":{
+                                "videoTutorial":"",
+                                "diagram":""
+                            },
+                            "referenceManual":[]
+                        },
+                        "counter":{
+                            "process": {},
+                            "webLinks":{
+                                "videoTutorial":"",
+                                "diagram":""
+                            },
+                            "referenceManual":[]
+                        },
+                        "vanity":{
+                            "process": {},
+                            "webLinks":{
+                                "videoTutorial":"",
+                                "diagram":""
+                            },
+                            "referenceManual":[]
+                        },
+                        "toilet:":{
+                            "process": {},
+                            "webLinks":{
+                                "videoTutorial":"",
+                                "diagram":""
+                            },
+                            "referenceManual":[]
+                        },
+                        "floor":{
+                            "process": {},
+                            "webLinks":{
+                                "videoTutorial":"",
+                                "diagram":""
+                            },
+                            "referenceManual":[]
+                        }
+
+                    },
+                    "sanitation":{},
+                    "restock":[
+                        "mini-bar",
+                        "towels",
+                        "tissues",
+                        "toilet paper",
+                        "soap",
+                        "shampoo",
+                        "conditioner",
+                        "moisturizer",
+                        "coffee filters",
+                        "cups",
+                        "ice bucket bags",
+                        "room comment cards",
+                        "notepad",
+                        "pens",
+                        "remote batteries"
+                    ],
+                    "presentation":{},
+                    "communication":{},
+                    "room":{
+                        "process": {},
+                        "webLinks":{
+                                "videoTutorial": "",
+                                "diagram": "http://ghk.h-cdn.co/assets/16/18/980x1396/gallery-1462220790-ghk-hotel-blueprint21.jpg",
+                                "pace": "https://www.d2o.com/wp-content/uploads/2016/02/HRR.jpg",
+                                "checklist": "https://i.pinimg.com/originals/9c/be/9c/9cbe9cb834d9496d71490ef2f822157d.png"
+                            },
+                        "referenceManual":[]
+                        }
+                    }
+                },
+                "GuestServices":{},
+                "FoodServices":{},
+                "Maintenance":{}
+        }
+    ]
+}
